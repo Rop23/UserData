@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">User Data</string>
+    <string name="enter_your_name">Enter your Name:</string>
+    <string name="enter_your_year_of_birth">Enter your Year of Birth:</string>
+</resources>
